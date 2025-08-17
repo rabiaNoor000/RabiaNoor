@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rabia Noor</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan</h3>
-<img align="right" alt="coding"width="400" scr="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabianoor&label=Profile%20views&color=0e75b6&style=flat" alt="rabianoor" /> </p>
 
